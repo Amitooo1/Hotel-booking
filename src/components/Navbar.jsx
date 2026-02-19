@@ -30,7 +30,7 @@ export default function Navbar() {
           to="/"
           className="text-2xl font-serif font-bold tracking-wide text-black"
         >
-          Accomora
+          Accomora Enterprises Private Limited.
         </Link>
 
         {/* Desktop Links */}

@@ -55,10 +55,6 @@ export default function Home() {
             >
             Book Your Stay
             </button>
-
-            <button className="border border-white px-6 py-3 rounded-full hover:bg-red-400 transition">
-              Explore Rooms
-            </button>
           </div>
         </div>
       </section>

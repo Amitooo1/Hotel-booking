@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto">
 
         {/* Top Grid */}
-        <div className="grid md:grid-cols-4 gap-12">
+        <div className="grid md:grid-cols-3 gap-12">
 
           {/* Brand */}
           <div>
@@ -28,7 +28,7 @@ export default function Footer() {
               <FooterLink to="/about">About Us</FooterLink>
               <FooterLink to="/contactus">Contact</FooterLink>
               <FooterLink to="/privacypolicy">Privacy Policy</FooterLink>
-              <FooterLink to="/refund&cancellation">Refund Policy</FooterLink>
+              <FooterLink to="/refund&cancellation">Refund & Cancellation Policy</FooterLink>
               <FooterLink to="/terms&conditions">Terms & Conditions</FooterLink>
             </ul>
           </div>
@@ -60,7 +60,7 @@ export default function Footer() {
           </div>
 
           {/* Newsletter */}
-          <div>
+          {/* <div>
             <h3 className="text-white font-semibold mb-4">
               Stay Updated
             </h3>
@@ -78,7 +78,7 @@ export default function Footer() {
                 Join
               </button>
             </div>
-          </div>
+          </div> */}
 
         </div>
 
